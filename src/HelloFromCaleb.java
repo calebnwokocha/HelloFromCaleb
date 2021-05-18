@@ -11,5 +11,6 @@ public class HelloFromCaleb {
     public static void main(String[] args){
         HelloFromCaleb h = new HelloFromCaleb();
         h.greeting();
+        System.out.println("Hello Caleb. My name is Phillip.");
     }
 }
